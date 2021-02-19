@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Everything......?**
 
-- 📝 My Blog [sharayubanait.blogspot.com](sharayubanait.blogspot.com)
+- 📝 My Blog [https://sharayubanait.blogspot.com/]
 
 - 📫 How to reach me **sharayubanait03@gmail.com**
 
