@@ -2,6 +2,7 @@
 <h3 align="center">Welcome to my Github residence :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharayu1071&label=Profile%20views&color=0e75b6&style=flat" alt="sharayu1071" /> </p>
+![github](https://user-images.githubusercontent.com/78864134/108682090-e748c100-7515-11eb-9bff-aa994a7e59e6.png)
 
 - 🔭 I’m currently working on **My Portfolio**
 
