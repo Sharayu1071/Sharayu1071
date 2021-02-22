@@ -1,5 +1,6 @@
 <h1 align="center">HELLO<Coders/>! , I'm Sharayu Banait</h1>
 <h3 align="center">Welcome to my Github residence :)</h3>
+<p align="left"> <img src="" alt="sharayu1071" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharayu1071&label=Profile%20views&color=0e75b6&style=flat" alt="sharayu1071" /> </p>
 
