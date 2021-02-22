@@ -7,9 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharayu1071&label=Profile%20views&color=0e75b6&style=flat" alt="sharayu1071" width="100" height="40"  /> </p>
 
-<p align="right"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="gif" /> </p>
-
-
+<p align="right"> <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="gif" width="80" height="50" /> </p>
 
 - 🔭 I’m currently exploring  **Everything.?**
 
