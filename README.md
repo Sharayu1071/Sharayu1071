@@ -3,7 +3,7 @@
 
 
 <h1 align="center">A Passionate Developer Who is Trying To Figure-Out Stuff..!</h1>
-<h3 align="center">Star the repos if you like...</h3>
+<h3 align="center">Star the repos if you like...⭐</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharayu1071&label=Profile%20views&color=0e75b6&style=flat" alt="sharayu1071" width="100" height="40"  /> </p>
 
@@ -11,17 +11,17 @@
 
 
 
--     I’m currently exploring  **Everything.?**
+-🔭I’m currently exploring  **Everything.?**
 
-- 🔭 I’m currently working on **My Portfolio**
+-🖨️I’m currently working on **My Portfolio**
     
--     I’m currently currently learning **Full Stack Dev**
+-💻I’m currently currently learning **Full Stack Dev**
 
 - 📝 Visit My Blog [here](https://sharayubanait.blogspot.com/)
 
 - 📫 How to reach me [Gmail]sharayubanait03@gmail.com
 
--    Fact **Code can't lie Comment can**
+-⚡Fact **Code can't lie Comment can**
 
 
 
