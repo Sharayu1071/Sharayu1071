@@ -14,13 +14,13 @@
 
 - 🖨️ I’m currently working on **My Portfolio**
     
-- 💻 I’m currently currently learning **Full Stack Dev**
+- 💻 I’m currently learning **Full Stack Dev**
 
 - 📝 Visit My Blog [here](https://sharayubanait.blogspot.com/)
 
-- 📫 Connet with me [Gmail] sharayubanait03@gmail.com
+- 📫 Connet with me [Gmail]   sharayubanait03@gmail.com
 
-- ⚡ Fact **Code can't lie Comment can**
+- ⚡ Fact **<Code can't lie,Comments can/> :)**
 
 
 
