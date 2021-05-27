@@ -10,17 +10,12 @@
 
 <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="gif"  align="right" width="500" height="300" /> 
 
-- 🔭 I’m currently exploring  **Everything.?**
-
-- 🖨️ I’m currently working on **My Portfolio**
-    
-- 💻 I’m currently learning **Full Stack Dev**
 
 - 📝 Visit My Blog [here](https://sharayubanait.blogspot.com/)
 
 - 📫 Connet with me [Gmail]   sharayubanait03@gmail.com
 
-- ⚡ Fact **<Code can't lie,Comments can/> :)**
+
 
 
 
