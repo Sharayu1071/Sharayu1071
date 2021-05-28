@@ -13,7 +13,7 @@
 
 - 📝 Visit My Blog [here](https://sharayubanait.blogspot.com/)
 
-- 📫 Connet with me [Gmail]   sharayubanait03@gmail.com
+- 📫 Connet with me [Gmail](sharayubanait03@gmail.com)
 
 
 
