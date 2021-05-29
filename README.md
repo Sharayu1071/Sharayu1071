@@ -9,9 +9,9 @@
 
 
  
- <p align="center"> - 📝 Visit My Blog [here](https://sharayubanait.blogspot.com/)  </p>
+ <p align="center"> - 📝 Visit My Blog [here]   (https://sharayubanait.blogspot.com/)  </p>
 
-<p align="center"> - 📫 How to reach me [Gmail](sharayubanait03@gmail.com)  </p>
+<p align="center"> - 📫 How to reach me [Gmail]    (sharayubanait03@gmail.com)  </p>
 
 
 <h3 align="center">Tech Stacks</h3>
