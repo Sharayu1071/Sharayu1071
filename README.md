@@ -1,4 +1,4 @@
-<h1 align="center">Hello Coders I'm Sharayu Banait</h1>
+<h1 align="center">Hello Coders, I'm Sharayu Banait</h1>
 
 <h3 align="center">A Girl Trying To Figure Out Stuff..!</h3>
 
@@ -10,7 +10,7 @@
 
 <br>
 
- - 📫 How to reach me [Gmail]    (sharayubanait03@gmail.com) 
+ - 📫 How to reach me [Gmail](sharayubanait03@gmail.com) 
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharayu1071&show_icons=true&locale=en&layout=compact" alt="sharayu1071" /></p>
