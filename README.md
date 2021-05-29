@@ -1,9 +1,8 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/78864134/108689546-39daab00-751f-11eb-951d-3a842344d84c.gif" alt="gif" width="1000" height="300" /> </p>
+<p align="center">
 
 
+<h1 align="center">A Girl Trying To Figure Out Stuff..!</h1>
 
-<h1 align="center">A Passionate Developer Who is Trying To Figure-Out Stuff..!</h1>
-<h3 align="center">Star the repos if you like...⭐</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharayu1071&label=Profile%20views&color=0e75b6&style=flat" alt="sharayu1071" width="100" height="40"  /> </p>
 
@@ -33,6 +32,8 @@
 
  
   </p>
+  
+   </p>
 
 
 
