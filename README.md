@@ -1,4 +1,6 @@
-<h1 align="center">Hello Coders, I'm Sharayu Banait</h1>
+<h1 align="center">Hello <Coders/></h1>
+
+<p align="center" <img src="github1.gif" alt="sharayu_banait" width="400" height="300"/> </p>
 
 <h3 align="center">A Girl Trying To Figure Out Stuff..!</h3>
 
