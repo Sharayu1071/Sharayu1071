@@ -1,6 +1,6 @@
-<h1 align="center">Hello Coders</h1>
+<h1 align="center">Hello Coders, I'm Sharayu Banait</h1>
 
- <img  src="https://user-images.githubusercontent.com/78864134/120099667-5e67a400-c15a-11eb-9b3f-6a56d38e5d8b.gif" alt="sharayu_banait" width="900" height="300"/> 
+
 
 <h3 align="center">A Girl Trying To Figure Out Stuff..!</h3>
 
@@ -9,7 +9,7 @@
 
 
 
-<img  src="" alt="sharayu_banait" width="900" height="300"/> 
+<img  src="https://user-images.githubusercontent.com/78864134/120100733-eac89580-c15f-11eb-8479-fc2346fe1846.gif" alt="sharayu_banait" width="900" height="300"/> 
 
 
 
