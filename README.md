@@ -1,6 +1,6 @@
 <h1 align="center">Hello Coders</h1>
 
-<p align="center" <img src="https://sharayu1071/github1.gif at main.sharayu1071/sharayu1071" alt="sharayu_banait" width="400" height="300"/> </p>
+<p align="center" <img src="![github1](https://user-images.githubusercontent.com/78864134/120099667-5e67a400-c15a-11eb-9b3f-6a56d38e5d8b.gif)" alt="sharayu_banait" width="400" height="300"/> </p>
 
 <h3 align="center">A Girl Trying To Figure Out Stuff..!</h3>
 
