@@ -1,6 +1,6 @@
 <h1 align="center">Hello Coders</h1>
 
-<p align="center" <img src="sharayu1071/github1.gif at main.sharayu1071/sharayu1071" alt="sharayu_banait" width="400" height="300"/> </p>
+<p align="center" <img src="https://sharayu1071/github1.gif at main.sharayu1071/sharayu1071" alt="sharayu_banait" width="400" height="300"/> </p>
 
 <h3 align="center">A Girl Trying To Figure Out Stuff..!</h3>
 
