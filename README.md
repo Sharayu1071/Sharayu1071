@@ -14,6 +14,11 @@
 
 <br/>
 
+ <h1 align="center"> Contribution graph being eaten by a Snake! 🐍 </h1>
+
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/sharayu1071/sharayu1071/master/snake.svg)
+
+
 <p align="center" > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharayu1071&show_icons=true&locale=en&layout=compact" alt="sharayu1071" /> </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharayu1071&show_icons=true&locale=en" alt="sharayu1071" /></p>
