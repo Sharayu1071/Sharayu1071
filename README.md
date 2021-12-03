@@ -7,12 +7,17 @@
 
 <img  src="https://user-images.githubusercontent.com/78864134/120100733-eac89580-c15f-11eb-8479-fc2346fe1846.gif" alt="sharayu_banait" width="900" height="300"/> 
 
-
+<!--
 <h1 align="center"> 📈 My Contribution Graph </h1>
 
 <a href="https://github.com/sharayu1071/github-readme-activity-graph"><img alt="Sharayu Banait's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sharayu1071&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+-->
+
+
 <br/>
+
+
 
  <h1 align="center"> Contribution graph being eaten by a Snake! 🐍 </h1>
 
