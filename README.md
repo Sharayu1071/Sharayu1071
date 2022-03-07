@@ -1,4 +1,4 @@
-
+<!----
 <h1 align="center">Hello Coders, 👋, I'm Sharayu Banait</h1>
 
 <h3 align="center">A Girl Trying To Figure Out Stuff..!</h3>
@@ -29,3 +29,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharayu1071&show_icons=true&locale=en" alt="sharayu1071" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharayu1071&" alt="sharayu1071" /></p>
+
+
+-->
