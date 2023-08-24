@@ -13,8 +13,8 @@
 - ❤️ Building a community to make an impact by training new generations on cutting-edge technologies to meet future requirements. 
 
 ## 🤝 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakanksha-bhende/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/AakankshaBhende)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sharayu-banait-300092207/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/shru_mb)
 
 ## 💻 Languages and Tools
 
