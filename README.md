@@ -10,6 +10,9 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at: **sharayubanait03@gmail.com**
 - ⚡ Fun fact: I love designing and travelling.
+- 👩‍💻 More About Me: https://sharayumb.bio.link/
+  
+  
 
 
 ## 🤝 Connect with me
