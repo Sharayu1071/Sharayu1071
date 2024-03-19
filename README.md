@@ -15,6 +15,7 @@
 ## 🤝 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sharayu-banait-300092207/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/shru_mb)
+[<img src="https://img.shields.io/badge/youtube-c4302b?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCxYhta_7kPKjb8MQEzL9SgA)
 
 ## 💻 Languages and Tools
 
