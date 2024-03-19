@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at: **sharayubanait03@gmail.com**
 - ⚡ Fun fact: I love designing and travelling.
-- ❤️ Building a community to make an impact by training new generations on cutting-edge technologies to meet future requirements. 
+
 
 ## 🤝 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sharayu-banait-300092207/)
