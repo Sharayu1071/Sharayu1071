@@ -9,7 +9,7 @@
 - 💬 Ask me about **Hackathons** and **Open Source Contributions** 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at: **sharayubanait03@gmail.com**
-- ⚡ Fun fact: I love designing and travelling.
+- ⚡ Fun fact: I love developing and designing next generation products!
 - 👩‍💻 More About Me: https://sharayumb.bio.link/
   
   
